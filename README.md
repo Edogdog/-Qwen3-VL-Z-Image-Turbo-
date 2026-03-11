@@ -50,4 +50,3 @@ openvino-workshop/
 
 - [OpenVINO 官方文档](https://docs.openvino.ai/)
 - [OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks)
-- [OpenVINO DevCon Workshop](https://github.com/openvino-dev-samples/openvino-devcon-workshop)
